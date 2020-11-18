@@ -3,6 +3,8 @@
 This repo serves to demonstrate an issue using the "snowflake-sdk" module with
 Webpack.
 
+https://github.com/snowflakedb/snowflake-connector-nodejs/issues/134
+
 ## Steps
 
 - Install dependencies with `yarn`
