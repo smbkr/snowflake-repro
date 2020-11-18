@@ -5,9 +5,13 @@
   "author": "Stuart Baker <stuart@smbkr.xyz>",
   "license": "MIT",
   "devDependencies": {
-    "webpack": "^5.5.1"
+    "webpack": "^5.5.1",
+    "webpack-cli": "^4.2.0"
   },
   "dependencies": {
     "snowflake-sdk": "^1.5.3"
+  },
+  "scripts": {
+    "build": "webpack-cli"
   }
 }
